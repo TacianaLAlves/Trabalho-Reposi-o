@@ -1,2 +1,1 @@
-# Trabalho-Reposi-o
-Trabalho completo de análise de dados com Python, visualizações e método de Monte Carlo
+Análise de dados utilizando Python, Matplotlib, Plotnine e métodos numéricos como Monte Carlo para aproximação de π.
